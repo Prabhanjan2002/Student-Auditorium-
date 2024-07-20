@@ -1,2 +1,2 @@
-# Student-Auditorium-
-using OOPs
+# Student-Auditorium-System
+using OOPs (c++)
